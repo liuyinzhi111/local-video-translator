@@ -4,7 +4,9 @@
 
 A local browser extension for real-time video transcription and subtitle translation, powered by on-device AI. No cloud APIs required.
 
-[中文说明](README.zh-CN.md) · [Installation](docs/INSTALL.md)
+**English** | [简体中文](README.zh-CN.md)
+
+[Installation guide](docs/INSTALL.md)
 
 Capture the audio of a Chrome tab, transcribe it on your NVIDIA GPU, and display translated subtitles over the page. The video does not need an existing subtitle track. The current interface and subtitle output are in Simplified Chinese; selecting another output language is not implemented in this version.
 
