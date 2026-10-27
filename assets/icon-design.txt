@@ -1,6 +1,0 @@
-Tool: built-in image_gen
-Transparent background: true
-Prompt:
-Create one polished colorful application icon for a local video subtitle translator, usable as Chrome extension icon and Windows desktop icon. Square 1:1 composition, genuinely transparent outside the icon. Large bold compact mark filling about 90% of the canvas. Two overlapping rounded speech-bubble tiles: rear rich turquoise/teal tile with a clearly legible bold white Latin capital A; foreground warm coral-orange tile with a clearly legible bold white Chinese character 文. Clean modern friendly sticker-like design, rounded corners, very subtle dimensional edge and restrained soft shadow. Strong silhouette and very simple shapes, readable when reduced to 32px. Make both glyphs visually balanced and large, without small decorative details. No grey palette, no watermark, no extra text, no mockup, no scene, no multiple alternatives. Deliver the isolated final icon.
-
-Source preserved at translation-icon-source.png. PNG/ICO sizes are production format conversions.

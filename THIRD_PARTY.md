@@ -17,4 +17,4 @@ The extension, local control panel and stream orchestration call the components 
 
 Consult the upstream repositories and model cards for licenses and attribution requirements. FLEURS samples used during development are distributed upstream under CC BY 4.0. The public samples and browser profiles used for development are not part of this source repository.
 
-The project icon was generated with an AI image tool, then converted to PNG/ICO sizes. Its prompt is preserved in `assets/icon-design.txt`.
+The project icon was generated with an AI image tool, then converted to PNG/ICO sizes.

@@ -4,7 +4,7 @@
 
 使用本机 AI，为浏览器视频实时转写并翻译字幕，无需云端 API。
 
-[English](README.md) · [安装说明](docs/INSTALL.md) · [验证与限制](docs/VALIDATION.md)
+[English](README.md) · [安装说明](docs/INSTALL.md)
 
 插件读取当前 Chrome 标签页的声音，经本机语音识别和翻译模型生成字幕。视频无需自带字幕。
 

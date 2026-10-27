@@ -33,3 +33,8 @@ node_modules/
 .idea/
 .DS_Store
 Thumbs.db
+# Local development checks, reports and icon-generation materials
+tests/
+docs/VALIDATION.md
+assets/icon-design.txt
+assets/translation-icon-source.png
