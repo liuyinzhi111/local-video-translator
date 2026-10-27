@@ -1,0 +1,6 @@
+# Optional Qwen compatibility mode. Install CUDA-enabled PyTorch first.
+-r requirements.txt
+qwen-asr==0.0.6
+silero-vad==6.2.3
+transformers==4.57.6
+soundfile==0.14.0

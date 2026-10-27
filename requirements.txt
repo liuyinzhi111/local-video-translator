@@ -1,0 +1,7 @@
+# Native streaming mode. Windows x64, Python 3.12.
+fastapi==0.142.2
+uvicorn==0.54.0
+httpx==0.28.1
+numpy==2.5.3
+websockets==15.0.1
+text2num==3.1.0

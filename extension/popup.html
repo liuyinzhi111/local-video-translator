@@ -1,0 +1,10 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><title>本地视频翻译</title><link rel="icon" href="icons/icon-32.png"><link rel="stylesheet" href="popup.css"></head><body>
+<header><img class="mark" src="icons/icon-128.png" alt="" width="42" height="42"><div><h1>本地视频翻译</h1><p>网页声音 → 中文字幕</p></div></header>
+<div class="status"><span id="dot"></span><strong id="status">正在连接…</strong></div>
+<p id="detail" class="detail">先启动本地程序，再播放视频。</p>
+<label class="field">视频原语言<select id="language"><option value="auto">自动识别（推荐）</option></select></label>
+<div class="actions"><button id="start" class="primary">开始翻译</button><button id="stop" disabled>停止</button></div>
+<label class="toggle"><input type="checkbox" id="original">同时显示外语原文</label>
+<label class="field size">字幕字号 <output id="size-label">25</output><input id="size" type="range" min="16" max="42" value="25"></label>
+<details id="connection"><summary>首次连接 / 设置</summary><p>在本地控制台复制连接码，仅需填写一次。</p><label for="token">本机连接码</label><input id="token" type="password" autocomplete="off" placeholder="粘贴本地控制台中的连接码"><button id="save">保存连接码</button><a href="http://127.0.0.1:18765/" target="_blank">打开本地控制台 ↗</a></details>
+<p id="error" role="alert"></p><footer>音频只在本机处理 · Alt + Shift + T</footer><script src="popup.js"></script></body></html>

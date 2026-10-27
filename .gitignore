@@ -1,0 +1,35 @@
+# Machine-specific settings and secrets
+config.json
+config.json.tmp
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+# Models, runtimes, local audio, browser profiles and logs
+models/
+runtime/
+downloads/
+logs/
+work/
+backups/
+dist/
+*.gguf
+*.safetensors
+*.onnx
+*.pt
+*.pth
+*.zip
+*.log
+# Python / development caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+node_modules/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
